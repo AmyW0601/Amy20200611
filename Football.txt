@@ -1,7 +1,11 @@
 Football.text
 
 TFPL Team
+<<<<<<< HEAD
 1.Taipower
 2.Futuro
 3.Redlions
 4.HungYuan
+=======
+1.Taipower
+>>>>>>> parent of 3f23f3c... Second Change for Football.text
