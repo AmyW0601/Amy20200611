@@ -3,3 +3,4 @@ Football.text
 TFPL Team
 1.Taipower
 2.Futuro
+3.Redlions
